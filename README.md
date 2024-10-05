@@ -1,5 +1,5 @@
 # WebScraping_UnidFederativaBrasil
-Web Scraping em Python para extração de dados das unidades federativas do Brasil usado como atividade avaliativa da Matéria de Business Intelligence ministrada pelo professor Heuber Gustavo.
+Web Scraping em Python para extração de dados das unidades federativas do Brasil usado como atividade avaliativa da Matéria de Business Intelligence ministrada pelo professor Heuber Gustavo no Curso de Data Science realizada na IPOG.
 
 Atividade realizada por Fábio Nogueira
 
